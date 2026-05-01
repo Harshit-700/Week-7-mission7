@@ -1,6 +1,6 @@
 ## Registration Wizard – Prompts Documentation
 
-This document outlines the structured prompts used during the development of the Registration Wizard React Application.  
+This document outlines the structured prompts used during the development of the Registration Wizard React Application.
 
 ----
 
