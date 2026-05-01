@@ -5,7 +5,8 @@ A modern and user-friendly multi-step registration form built with React. This a
 🔗 Live Demo: *Add your deployed link here*
 
 📸 Screenshot
-image alt.
+![img alt](https://github.com/Harshit-700/Week-7-mission7/blob/324965bfa0efa8797a407b6f485c721478e0b4f7/Screenshot%20(427).png)
+
 
 ---
 
