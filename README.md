@@ -2,7 +2,7 @@
 
 A modern and user-friendly multi-step registration form built with React. This application guides users through a step-by-step onboarding process, ensuring smooth data entry, validation, and review before submission.
 
-🔗 Live Demo: *Add your deployed link here*
+🔗 Live Demo: https://week-7-mission7.vercel.app/
 
 📸 Screenshot
 ![img alt](https://github.com/Harshit-700/Week-7-mission7/blob/324965bfa0efa8797a407b6f485c721478e0b4f7/Screenshot%20(427).png)
